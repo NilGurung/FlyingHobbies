@@ -1,0 +1,91 @@
+/** Ipad view Styles **/
+div#container {
+	max-width: 80%;
+}
+img {
+	max-width: 100%;
+	height:auto;
+}
+
+div#logo img{
+		margin-top: 0px;
+		width:100%;
+		text-align: center;
+		float:none;
+}
+
+nav ul {
+	float:none;
+}
+
+nav ul li {
+	display: inline-block;
+    width: 24%;
+}
+
+nav ul li:nth-child(n+5) {
+	position: relative;
+	left: -12%;
+}
+
+nav ul li a {
+  border: none;
+  padding: 1% 0.5%;
+}
+
+nav ul li:nth-child(1) a {
+  border: none;
+}
+
+div.welcome {
+	float: none;
+	width: 91%;
+    
+}
+
+section.gallery h2.title {
+	margin-top: -0.5em;
+}
+div#floor {
+	margin: 10px auto;
+	width:100%;
+	float:none;
+}
+
+
+
+/** business hour styles **/
+
+aside.opeing-times {
+	margin-bottom: 3em;
+	margin-top: 3em;
+}
+
+
+/** Footer Styles **/
+
+footer div#copyright {
+	 width: 73%;
+	 margin:25px;
+	 margin-top:10px;
+}
+
+footer div#icons ul li {
+	margin-left: -2.5px;
+}
+
+.row .column {
+	    width: 100%;
+	    float: none;
+}
+
+article#contact {
+    width: 82%;
+}
+
+div#floor {
+	width:81%;
+}
+
+
+

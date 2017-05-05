@@ -1,0 +1,142 @@
+div#container {
+    max-width: 80%;
+}
+
+img {
+	max-width: 100%;
+	height:auto;
+}
+
+div.welcome {
+	float: none;
+	width: 91%;
+    
+}
+
+div#floor {
+	margin: 10px auto;
+	width: 84%;
+	float:none;
+}
+
+div.featured {
+    margin-left: -10px;
+    width: 90%;
+
+}
+
+div#logo img{
+		margin-top: 0px;
+		float:none;
+	}
+
+nav ul li a {
+	display:block;
+	margin:0px;
+	padding:5px;
+	border-bottom: 1px solid black;
+}
+
+nav ul li a:hover {
+  background-color: red;
+  padding: 0px;
+  opacity: 0.7;
+}
+
+div.mobile-collapse{
+	float:none;
+	width:auto;
+	margin-right:0;
+}
+section.gallery {
+	margin-top:-38px;
+}
+
+
+	/*div.welcome {
+		margin-top:457px;
+	}*/
+
+.row .column {
+    width: 100%;
+    float: none;
+}
+
+aside.opeing-times {
+	margin: 8% auto;
+    margin-bottom: 3em;
+    padding: 10pt;
+}
+
+div.content {
+	width: 88%;
+}
+
+.row .column .content {
+    padding: 0px 0px 0px 37px;
+    
+}
+
+h2.title {
+	margin-top: 1.5em;
+}
+
+footer div#copyright {
+    width: 61%;
+	margin-left: 3PX;
+}
+#copyright p {
+	font-size:11px;
+}
+div #visitor-info h2 {
+	font-size:14px;
+}
+
+form {
+    width: 100%;
+    margin-left: 0%;
+}
+
+footer div#icons ul li{
+	margin-left:0px;
+}
+
+
+form label,input[type=text], textarea, select {
+	padding: 3%;
+    display: block;
+    margin: 5px;
+    width: 77%;
+    text-align: left;
+    display: block;
+}
+
+form label {
+	padding:2%;
+}
+
+select {
+	width:80%;
+}
+
+
+form div#buttons {
+    margin-left: -2%;
+}
+
+article#contact {
+    width: 77%;
+    margin-bottom: 7%;
+    padding: 20px;
+    margin-left: 5%;
+}
+
+input[type=text], textarea, select {
+	margin-top:10px;
+}
+
+article img.large-img {
+ max-width: 35%;
+ height:auto;
+}
+
